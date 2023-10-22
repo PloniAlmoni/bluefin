@@ -1,4 +1,4 @@
-# bluefin
+# Joshua Lee's fork of bluefin
 
 **This image is considered Beta** 
 
