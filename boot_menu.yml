@@ -1,10 +1,10 @@
 ublue_variants:
-  - label: plonialmoni/bluefin
+  - label: ublue-os/bluefin
     ks: /kickstart/ublue-os.ks
     flavors:
       - label: bluefin
         info: Bluefin
-  - label: plonialmoni/bluefin-nvidia
+  - label: ublue-os/bluefin-nvidia
     ks: /kickstart/ublue-os-nvidia.ks
     subvariants:
       - label: latest driver
