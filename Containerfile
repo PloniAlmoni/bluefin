@@ -115,7 +115,7 @@ COPY workarounds.sh \
      packages.json \
      build.sh \
      image-info.sh \
-    /tmp
+    /tmp/
 
 # Apply IP Forwarding before installing Docker to prevent messing with LXC networking
 RUN sysctl -p
