@@ -160,8 +160,10 @@ RUN rpm-ostree install $(curl https://api.github.com/repos/charmbracelet/gum/rel
 
 # Set up services
 RUN systemctl enable podman.socket && \
+    systemctl enable numad.service && \
     systemctl disable pmie.service && \
     systemctl disable pmlogger.service
+
 
 RUN /tmp/workarounds.sh
 # add my packages
