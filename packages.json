@@ -20,6 +20,7 @@
 				"libratbag-ratbagd",
 				"libxcrypt-compat",
 				"mesa-libGLU",
+				"neovim", "neovim-qt",
 				"nautilus-gsconnect",
 				"pulseaudio-utils",
 				"python3-pip",
