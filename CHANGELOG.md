@@ -25,6 +25,18 @@
 
 * release 1.2.0 ([0f95d73](https://github.com/plonialmoni/bluefin/commit/0f95d733ecaeeb92f094941344addb3e04092193))
 
+## [1.2.0](https://github.com/plonialmoni/bluefin/compare/v1.2.0...v1.2.0) (2023-10-24)
+
+
+### Features
+
+* turn on ublue-update service ([#608](https://github.com/plonialmoni/bluefin/issues/608)) ([951c2d6](https://github.com/plonialmoni/bluefin/commit/951c2d6cfde86720be1ae6e8b44822f8bae1eb34))
+
+
+### Miscellaneous Chores
+
+* release 1.2.0 ([0f95d73](https://github.com/plonialmoni/bluefin/commit/0f95d733ecaeeb92f094941344addb3e04092193))
+
 ## [1.2.0](https://github.com/plonialmoni/bluefin/compare/v1.0.0...v1.2.0) (2023-10-24)
 
 
