@@ -1,6 +1,20 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.3.0](https://github.com/plonialmoni/bluefin/compare/v1.2.0...v1.3.0) (2023-10-29)
+
+
+### Features
+
+* add localsend to recommended utilities ([#618](https://github.com/plonialmoni/bluefin/issues/618)) ([588139e](https://github.com/plonialmoni/bluefin/commit/588139e7fec63e75107ac9e785fc7c11c52616fe))
+
+
+### Bug Fixes
+
+* delete usr/share/backgrounds/lagoon.jpg ([#620](https://github.com/plonialmoni/bluefin/issues/620)) ([fceb936](https://github.com/plonialmoni/bluefin/commit/fceb93658f02947f504942d3282c68fc688b0318))
+* **just:** add msg to devmode-on ([#624](https://github.com/plonialmoni/bluefin/issues/624)) ([41bdf29](https://github.com/plonialmoni/bluefin/commit/41bdf294c20a3903f4a0cf72105f466bf0676291))
+* revert DevPod to latest available RPM (v0.3.7) ([#627](https://github.com/plonialmoni/bluefin/issues/627)) ([b7489e6](https://github.com/plonialmoni/bluefin/commit/b7489e6d9e72df10ac4c771be4749ed543ff8e28))
+
 ## [1.2.0](https://github.com/plonialmoni/bluefin/compare/v1.3.0...v1.2.0) (2023-10-29)
 
 
