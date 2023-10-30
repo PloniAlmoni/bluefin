@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.4.0](https://github.com/plonialmoni/bluefin/compare/v1.3.0...v1.4.0) (2023-10-30)
+
+
+### Features
+
+* add commit mono font ([#631](https://github.com/plonialmoni/bluefin/issues/631)) ([cd1321e](https://github.com/plonialmoni/bluefin/commit/cd1321e3749eb87a6884d4bdcad99b8d3097fcdd))
+
 ## [1.3.0](https://github.com/plonialmoni/bluefin/compare/v1.2.0...v1.3.0) (2023-10-29)
 
 
