@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.4.1](https://github.com/plonialmoni/bluefin/compare/v1.4.0...v1.4.1) (2023-11-02)
+
+
+### Bug Fixes
+
+* **f39:** Restore evdi ([#628](https://github.com/plonialmoni/bluefin/issues/628)) ([fe75d1d](https://github.com/plonialmoni/bluefin/commit/fe75d1d74fb593dbb0430a3be38d9d292ec31eb0))
+
 ## [1.4.0](https://github.com/plonialmoni/bluefin/compare/v1.3.0...v1.4.0) (2023-10-30)
 
 
