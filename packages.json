@@ -21,7 +21,6 @@
 				"libxcrypt-compat",
 				"mesa-libGLU",
 				"numad",
-				"neovim", "neovim-qt",
 				"nautilus-gsconnect",
 				"pulseaudio-utils",
 				"python3-pip",
