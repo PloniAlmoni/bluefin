@@ -164,7 +164,6 @@ RUN /tmp/workarounds.sh
 # add my packages
 ADD --chmod=0755 scripts/* /tmp/
 RUN /tmp/1password.sh
-RUN /tmp/more.sh
 
 # Clean up repos, everything is on the image so we don't need them
 RUN rm -f /etc/yum.repos.d/ublue-os-staging-fedora-"${FEDORA_MAJOR_VERSION}".repo && \
