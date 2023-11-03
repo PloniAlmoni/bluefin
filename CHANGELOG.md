@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.5.0](https://github.com/plonialmoni/bluefin/compare/v1.4.1...v1.5.0) (2023-11-03)
+
+
+### Features
+
+* **yafti:** add podman desktop ([#636](https://github.com/plonialmoni/bluefin/issues/636)) ([827a2a0](https://github.com/plonialmoni/bluefin/commit/827a2a05546dd548545bf319bcf98b49db053b2e))
+
 ## [1.4.1](https://github.com/plonialmoni/bluefin/compare/v1.4.0...v1.4.1) (2023-11-02)
 
 
