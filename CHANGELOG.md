@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.5.1](https://github.com/plonialmoni/bluefin/compare/v1.5.0...v1.5.1) (2023-11-05)
+
+
+### Bug Fixes
+
+* exclude evdi on asus ([#640](https://github.com/plonialmoni/bluefin/issues/640)) ([b184c51](https://github.com/plonialmoni/bluefin/commit/b184c510dff63479859fcbc9b66682fd18a7af5b))
+
 ## [1.5.0](https://github.com/plonialmoni/bluefin/compare/v1.4.1...v1.5.0) (2023-11-03)
 
 
