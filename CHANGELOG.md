@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.7.0](https://github.com/plonialmoni/bluefin/compare/v1.6.0...v1.7.0) (2023-11-08)
+
+
+### Features
+
+* mark Fedora 39 as stable ([#646](https://github.com/plonialmoni/bluefin/issues/646)) ([f37a75d](https://github.com/plonialmoni/bluefin/commit/f37a75dea2b283b5c6c446ca2c92fb8ee507f84c))
+
 ## [1.6.0](https://github.com/plonialmoni/bluefin/compare/v1.5.1...v1.6.0) (2023-11-08)
 
 
