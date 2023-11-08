@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.6.0](https://github.com/plonialmoni/bluefin/compare/v1.5.1...v1.6.0) (2023-11-08)
+
+
+### Features
+
+* dev tools for dx ([#644](https://github.com/plonialmoni/bluefin/issues/644)) ([833b044](https://github.com/plonialmoni/bluefin/commit/833b0444ac0eb98499a02ede5cd21565e30d7198))
+
 ## [1.5.1](https://github.com/plonialmoni/bluefin/compare/v1.5.0...v1.5.1) (2023-11-05)
 
 
