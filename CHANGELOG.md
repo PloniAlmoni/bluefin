@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.7.1](https://github.com/plonialmoni/bluefin/compare/v1.7.0...v1.7.1) (2023-11-09)
+
+
+### Bug Fixes
+
+* Correct issues with desktop portal ([#647](https://github.com/plonialmoni/bluefin/issues/647)) ([6234165](https://github.com/plonialmoni/bluefin/commit/6234165d77792a8fd0725901f0fc74e26b81d9c4))
+
 ## [1.7.0](https://github.com/plonialmoni/bluefin/compare/v1.6.0...v1.7.0) (2023-11-08)
 
 
