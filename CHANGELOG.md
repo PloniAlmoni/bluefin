@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.8.0](https://github.com/plonialmoni/bluefin/compare/v1.7.1...v1.8.0) (2023-11-14)
+
+
+### Features
+
+* update quadlet to pass socket in, add additional documentaiton ([#651](https://github.com/plonialmoni/bluefin/issues/651)) ([5f3b17e](https://github.com/plonialmoni/bluefin/commit/5f3b17ec3411687d8be9dd885b25a9850144f0af))
+
 ## [1.7.1](https://github.com/plonialmoni/bluefin/compare/v1.7.0...v1.7.1) (2023-11-09)
 
 
