@@ -1,6 +1,18 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.10.0](https://github.com/plonialmoni/bluefin/compare/v1.9.0...v1.10.0) (2023-11-15)
+
+
+### Features
+
+* increase inotify handles ([#659](https://github.com/plonialmoni/bluefin/issues/659)) ([0b57e39](https://github.com/plonialmoni/bluefin/commit/0b57e39e7e09ff244ba7454da4df7f47ba11c102))
+
+
+### Bug Fixes
+
+* update forum link ([#657](https://github.com/plonialmoni/bluefin/issues/657)) ([d6dff26](https://github.com/plonialmoni/bluefin/commit/d6dff262ae4803f48bfb4b4945e67b2f91cd3844))
+
 ## [1.9.0](https://github.com/plonialmoni/bluefin/compare/v1.8.0...v1.9.0) (2023-11-15)
 
 
