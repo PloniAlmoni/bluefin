@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.9.0](https://github.com/plonialmoni/bluefin/compare/v1.8.0...v1.9.0) (2023-11-15)
+
+
+### Features
+
+* add charm glow, remove vhs ([#654](https://github.com/plonialmoni/bluefin/issues/654)) ([fe0480e](https://github.com/plonialmoni/bluefin/commit/fe0480ea4c124c8c457995b15d27e179ff01003f))
+
 ## [1.8.0](https://github.com/plonialmoni/bluefin/compare/v1.7.1...v1.8.0) (2023-11-14)
 
 
