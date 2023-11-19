@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.11.0](https://github.com/plonialmoni/bluefin/compare/v1.10.0...v1.11.0) (2023-11-19)
+
+
+### Features
+
+* **just:** enable/disable gnome-vrr ([#665](https://github.com/plonialmoni/bluefin/issues/665)) ([1e0a42d](https://github.com/plonialmoni/bluefin/commit/1e0a42d6a7f3ba0c15dac7b6fb99db5c566ff3ec))
+
 ## [1.10.0](https://github.com/plonialmoni/bluefin/compare/v1.9.0...v1.10.0) (2023-11-15)
 
 
