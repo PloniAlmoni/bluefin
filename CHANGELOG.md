@@ -1,6 +1,18 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.12.0](https://github.com/plonialmoni/bluefin/compare/v1.11.0...v1.12.0) (2023-11-19)
+
+
+### Features
+
+* turn off login sounds by default ([#667](https://github.com/plonialmoni/bluefin/issues/667)) ([572d681](https://github.com/plonialmoni/bluefin/commit/572d681e899629c435a16d43a202e38742341bdd))
+
+
+### Bug Fixes
+
+* hide gnome-system-monitor .desktop file ([#668](https://github.com/plonialmoni/bluefin/issues/668)) ([780d011](https://github.com/plonialmoni/bluefin/commit/780d01189b2dc73e6f038fa91bcecc7fa149dff8))
+
 ## [1.11.0](https://github.com/plonialmoni/bluefin/compare/v1.10.0...v1.11.0) (2023-11-19)
 
 
