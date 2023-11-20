@@ -22,6 +22,8 @@
 				"libratbag-ratbagd",
 				"libxcrypt-compat",
 				"mesa-libGLU",
+				"neovim",
+				"neovim-qt",
 				"numad",
 				"nautilus-gsconnect",
 				"pulseaudio-utils",
