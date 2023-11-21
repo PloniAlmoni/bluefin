@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.13.0](https://github.com/plonialmoni/bluefin/compare/v1.12.0...v1.13.0) (2023-11-21)
+
+
+### Features
+
+* add just syntax checker ([#673](https://github.com/plonialmoni/bluefin/issues/673)) ([59c03c9](https://github.com/plonialmoni/bluefin/commit/59c03c94fbd4fcba9d7107e07b3b201776eca14a))
+
 ## [1.12.0](https://github.com/plonialmoni/bluefin/compare/v1.11.0...v1.12.0) (2023-11-19)
 
 
