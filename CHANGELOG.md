@@ -1,6 +1,14 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.13.1](https://github.com/plonialmoni/bluefin/compare/v1.13.0...v1.13.1) (2023-11-22)
+
+
+### Bug Fixes
+
+* remove ddccontrol ([#676](https://github.com/plonialmoni/bluefin/issues/676)) ([9323df6](https://github.com/plonialmoni/bluefin/commit/9323df637ff20b3a3562da67df902256094c9815))
+* turn off gnome vrr by default ([#674](https://github.com/plonialmoni/bluefin/issues/674)) ([e75f1ec](https://github.com/plonialmoni/bluefin/commit/e75f1ec47cf692e362528dbe961eb4afac980018))
+
 ## [1.13.0](https://github.com/plonialmoni/bluefin/compare/v1.12.0...v1.13.0) (2023-11-21)
 
 
