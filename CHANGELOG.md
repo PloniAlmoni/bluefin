@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.14.0](https://github.com/plonialmoni/bluefin/compare/v1.13.1...v1.14.0) (2023-11-24)
+
+
+### Features
+
+* add hplip ([#678](https://github.com/plonialmoni/bluefin/issues/678)) ([2cbe183](https://github.com/plonialmoni/bluefin/commit/2cbe1832a17e4a39f4937455e74d375d39980a3a))
+
 ## [1.13.1](https://github.com/plonialmoni/bluefin/compare/v1.13.0...v1.13.1) (2023-11-22)
 
 
