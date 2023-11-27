@@ -1,6 +1,18 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.15.0](https://github.com/plonialmoni/bluefin/compare/v1.14.0...v1.15.0) (2023-11-27)
+
+
+### Features
+
+* **just:** combine devmode on/off with gum ([#685](https://github.com/plonialmoni/bluefin/issues/685)) ([51d8f75](https://github.com/plonialmoni/bluefin/commit/51d8f7593c4fb3d7318ef046b457316403c2692d))
+
+
+### Bug Fixes
+
+* increase open file limit ([#686](https://github.com/plonialmoni/bluefin/issues/686)) ([bf32542](https://github.com/plonialmoni/bluefin/commit/bf325429fe955108b7bb89c45716b90d6765781b))
+
 ## [1.14.0](https://github.com/plonialmoni/bluefin/compare/v1.13.1...v1.14.0) (2023-11-24)
 
 
