@@ -82,6 +82,7 @@
 				"google-go-mono-fonts",
 				"ibm-plex-mono-fonts",
 				"incus",
+				"incus-agent",
 				"indent",
 				"intltool",
 				"iotop",
@@ -118,7 +119,8 @@
 				"systemtap",
 				"ubuntu-nerd-fonts",
 				"ubuntumono-nerd-fonts",
-				"virt-manager"
+				"virt-manager",
+				"virt-viewer"
 			]
 		},
 		"exclude": {
