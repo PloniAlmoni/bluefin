@@ -1,6 +1,14 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.15.1](https://github.com/plonialmoni/bluefin/compare/v1.15.0...v1.15.1) (2023-11-29)
+
+
+### Bug Fixes
+
+* add incus-agent ([#689](https://github.com/plonialmoni/bluefin/issues/689)) ([92fd084](https://github.com/plonialmoni/bluefin/commit/92fd084ad6be3ab11a4a9b1116b88fecbad50b89))
+* add missing virt-viewer for -dx ([#690](https://github.com/plonialmoni/bluefin/issues/690)) ([35ed665](https://github.com/plonialmoni/bluefin/commit/35ed6658d6469ebfd5215be7c442a401c08cd460))
+
 ## [1.15.0](https://github.com/plonialmoni/bluefin/compare/v1.14.0...v1.15.0) (2023-11-27)
 
 
