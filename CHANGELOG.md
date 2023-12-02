@@ -1,6 +1,21 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.16.0](https://github.com/plonialmoni/bluefin/compare/v1.15.1...v1.16.0) (2023-12-02)
+
+
+### Features
+
+* **dx:** add podman-compose ([#691](https://github.com/plonialmoni/bluefin/issues/691)) ([8fb1dfa](https://github.com/plonialmoni/bluefin/commit/8fb1dfa173d97a6c32b719457ba1848b96cf1c00))
+* **just:** add garden.io ([#694](https://github.com/plonialmoni/bluefin/issues/694)) ([732d8f6](https://github.com/plonialmoni/bluefin/commit/732d8f656baf3aa884c4fcf0441ebc01cbb1098e))
+
+
+### Bug Fixes
+
+* **ci:** never skip successful builds check ([#696](https://github.com/plonialmoni/bluefin/issues/696)) ([19d7851](https://github.com/plonialmoni/bluefin/commit/19d7851b65774b50db5b158ed983deb6a056e533))
+* **dx:** improve distrobox-enter wrapper ([#692](https://github.com/plonialmoni/bluefin/issues/692)) ([aac5262](https://github.com/plonialmoni/bluefin/commit/aac526232ce615f3a25f8289d346f5c625f7760d))
+* **toolbox/ubuntu:** add missing distrobox dependency ([#695](https://github.com/plonialmoni/bluefin/issues/695)) ([204bba3](https://github.com/plonialmoni/bluefin/commit/204bba3741428cafc336958d3a1a254b1eecd0eb))
+
 ## [1.15.1](https://github.com/plonialmoni/bluefin/compare/v1.15.0...v1.15.1) (2023-11-29)
 
 
