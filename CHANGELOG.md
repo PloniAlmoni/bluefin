@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.16.1](https://github.com/plonialmoni/bluefin/compare/v1.16.0...v1.16.1) (2023-12-03)
+
+
+### Bug Fixes
+
+* **just:** name bluefin-cli -&gt; bluefin ([#705](https://github.com/plonialmoni/bluefin/issues/705)) ([19be662](https://github.com/plonialmoni/bluefin/commit/19be66223273ec03cc746eace27ff6ed3aebd656))
+
 ## [1.16.0](https://github.com/plonialmoni/bluefin/compare/v1.15.1...v1.16.0) (2023-12-02)
 
 
