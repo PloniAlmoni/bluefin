@@ -1,6 +1,20 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.17.0](https://github.com/plonialmoni/bluefin/compare/v1.16.2...v1.17.0) (2023-12-04)
+
+
+### Features
+
+* add libimobiledevice and friends for iphone ([#708](https://github.com/plonialmoni/bluefin/issues/708)) ([9f492f8](https://github.com/plonialmoni/bluefin/commit/9f492f821f5bab6255a7cfd39135fd7b1d8ce76f))
+* **wolfi:** add packages needed ([#707](https://github.com/plonialmoni/bluefin/issues/707)) ([1c81d12](https://github.com/plonialmoni/bluefin/commit/1c81d121b50541082c81eae2071d190cd8f1a98b))
+
+
+### Bug Fixes
+
+* **wolfi:** add packages for distrobox ([#709](https://github.com/plonialmoni/bluefin/issues/709)) ([54d5e95](https://github.com/plonialmoni/bluefin/commit/54d5e95351b55525b32d7187ba1e72f887854d94))
+* **wolfi:** remove distrobox packages ([#710](https://github.com/plonialmoni/bluefin/issues/710)) ([3d1663a](https://github.com/plonialmoni/bluefin/commit/3d1663afd6076952d1af44217674380f8486e6b9))
+
 ## [1.16.2](https://github.com/plonialmoni/bluefin/compare/v1.16.1...v1.16.2) (2023-12-03)
 
 
