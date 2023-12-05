@@ -1,6 +1,18 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.18.0](https://github.com/plonialmoni/bluefin/compare/v1.17.0...v1.18.0) (2023-12-05)
+
+
+### Features
+
+* switch to winter wallpaper ([#714](https://github.com/plonialmoni/bluefin/issues/714)) ([021de85](https://github.com/plonialmoni/bluefin/commit/021de8532e8f7d934a933326819ce9c789ce9183))
+
+
+### Bug Fixes
+
+* Drop 38 support in gnome-vrr, add Xwayland patch for Nvidia 545 ([#715](https://github.com/plonialmoni/bluefin/issues/715)) ([333f8d6](https://github.com/plonialmoni/bluefin/commit/333f8d64276d95bef06a093d3506f87194b9bd0f))
+
 ## [1.17.0](https://github.com/plonialmoni/bluefin/compare/v1.16.2...v1.17.0) (2023-12-04)
 
 
