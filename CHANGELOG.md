@@ -1,6 +1,14 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.18.1](https://github.com/plonialmoni/bluefin/compare/v1.18.0...v1.18.1) (2023-12-07)
+
+
+### Bug Fixes
+
+* Temporarily remove xwayland override ([fd4746f](https://github.com/plonialmoni/bluefin/commit/fd4746f8bdac0ab94b506a82916356c0cfd29882))
+* **wolfi:** move bluefin-cli to wolfi ([#717](https://github.com/plonialmoni/bluefin/issues/717)) ([89be8ef](https://github.com/plonialmoni/bluefin/commit/89be8ef5727414453bbd8a9c76f5f4541c1b3564))
+
 ## [1.18.0](https://github.com/plonialmoni/bluefin/compare/v1.17.0...v1.18.0) (2023-12-05)
 
 
