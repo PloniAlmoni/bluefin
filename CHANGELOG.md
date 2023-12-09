@@ -1,6 +1,18 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.19.0](https://github.com/plonialmoni/bluefin/compare/v1.18.1...v1.19.0) (2023-12-09)
+
+
+### Features
+
+* **dx:** add kcli ([#724](https://github.com/plonialmoni/bluefin/issues/724)) ([1a11711](https://github.com/plonialmoni/bluefin/commit/1a11711761bdb4eaeb55060d149cbd21a0c3e326))
+
+
+### Bug Fixes
+
+* **ubuntu:** slim down ubuntu toolbox ([#725](https://github.com/plonialmoni/bluefin/issues/725)) ([b43a5f7](https://github.com/plonialmoni/bluefin/commit/b43a5f75424ba92e11bb0d8a9cbe30f11f35ea0f))
+
 ## [1.18.1](https://github.com/plonialmoni/bluefin/compare/v1.18.0...v1.18.1) (2023-12-07)
 
 
