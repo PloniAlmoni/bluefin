@@ -13,6 +13,8 @@
 				"gnome-shell-extension-dash-to-dock",
 				"gnome-shell-extension-gsconnect",
 				"gnome-shell-extension-tailscale-status",
+				"gnome-shell-extension-logo-menu",
+				"nautilus-open-any-terminal",
 				"hplip",
 				"ifuse",
 				"input-remapper",
@@ -21,6 +23,7 @@
 				"libimobiledevice",
 				"libratbag-ratbagd",
 				"libxcrypt-compat",
+				"make",
 				"mesa-libGLU",
 				"neovim",
 				"neovim-qt",
@@ -108,6 +111,7 @@
 				"gnome-extensions-app",
 				"gnome-software-rpm-ostree",
 				"gnome-tour",
+				"gnome-terminal-nautilus",
 				"ublue-os-update-services"
 			],
 			"bluefin-dx": []
