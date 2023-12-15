@@ -1,6 +1,19 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.20.0](https://github.com/plonialmoni/bluefin/compare/v1.19.0...v1.20.0) (2023-12-15)
+
+
+### Features
+
+* Add Logo Menu & Prepare for Prompt future ([#732](https://github.com/plonialmoni/bluefin/issues/732)) ([94bb013](https://github.com/plonialmoni/bluefin/commit/94bb013a241e40c74d381100dc3b166c2e033c32))
+* **dx:** add make back ([#731](https://github.com/plonialmoni/bluefin/issues/731)) ([236d37f](https://github.com/plonialmoni/bluefin/commit/236d37fb16e9f1d981adbbef01e3287431c25191))
+
+
+### Bug Fixes
+
+* Port over a fix for flatpaks failing to install from Bazzite ([#730](https://github.com/plonialmoni/bluefin/issues/730)) ([846af93](https://github.com/plonialmoni/bluefin/commit/846af936f6d24d09f831ed44d5c5e8b59efe9c8a))
+
 ## [1.19.0](https://github.com/plonialmoni/bluefin/compare/v1.18.1...v1.19.0) (2023-12-09)
 
 
