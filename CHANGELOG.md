@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.21.0](https://github.com/plonialmoni/bluefin/compare/v1.20.0...v1.21.0) (2023-12-17)
+
+
+### Features
+
+* Add Prompt integration ([#728](https://github.com/plonialmoni/bluefin/issues/728)) ([a03332d](https://github.com/plonialmoni/bluefin/commit/a03332d8f8c6a1cc218b9c8afac7a2f6a6a4c5ea))
+
 ## [1.20.0](https://github.com/plonialmoni/bluefin/compare/v1.19.0...v1.20.0) (2023-12-15)
 
 
