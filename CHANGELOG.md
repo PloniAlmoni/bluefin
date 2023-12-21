@@ -1,6 +1,14 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.23.0](https://github.com/plonialmoni/bluefin/compare/v1.22.0...v1.23.0) (2023-12-21)
+
+
+### Features
+
+* **dx:** turn on docker socket by default ([#740](https://github.com/plonialmoni/bluefin/issues/740)) ([ac2027c](https://github.com/plonialmoni/bluefin/commit/ac2027cdd0e71c438c9bfd75fc7894a2083f4c2b))
+* **prompt:** match bazzite and g-t behavior ([#741](https://github.com/plonialmoni/bluefin/issues/741)) ([cd96a51](https://github.com/plonialmoni/bluefin/commit/cd96a51cc80ecf77154084ac3a68a4b7b41453b5))
+
 ## [1.22.0](https://github.com/plonialmoni/bluefin/compare/v1.21.0...v1.22.0) (2023-12-19)
 
 
