@@ -1,6 +1,19 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.24.0](https://github.com/plonialmoni/bluefin/compare/v1.23.0...v1.24.0) (2023-12-22)
+
+
+### Features
+
+* switch to tailscale-gnome-qs extension ([#744](https://github.com/plonialmoni/bluefin/issues/744)) ([5b794d3](https://github.com/plonialmoni/bluefin/commit/5b794d3a86cb36faaff5cfdc6523c209b7be9340))
+
+
+### Bug Fixes
+
+* Restore Control+Alt+T shortcut for terminals ([#747](https://github.com/plonialmoni/bluefin/issues/747)) ([c8d0663](https://github.com/plonialmoni/bluefin/commit/c8d0663f73b5496751a516880b43f533b8e014ad))
+* use tailscale-qs for F39 only ([#746](https://github.com/plonialmoni/bluefin/issues/746)) ([d6f26e2](https://github.com/plonialmoni/bluefin/commit/d6f26e22eb60e53d163e77417ee89c44fdcf58ae))
+
 ## [1.23.0](https://github.com/plonialmoni/bluefin/compare/v1.22.0...v1.23.0) (2023-12-21)
 
 
