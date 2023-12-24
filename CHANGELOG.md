@@ -1,6 +1,14 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.24.1](https://github.com/plonialmoni/bluefin/compare/v1.24.0...v1.24.1) (2023-12-24)
+
+
+### Bug Fixes
+
+* Always launch prompt in a new window when xdg-terminal-exec is called with no input ([#748](https://github.com/plonialmoni/bluefin/issues/748)) ([0531ff9](https://github.com/plonialmoni/bluefin/commit/0531ff926d8c48ffb86c220845a2ae9eda812e32))
+* Correct issue with command check in xdg-terminal-exec ([e48a816](https://github.com/plonialmoni/bluefin/commit/e48a81688a5b0a0c812b0a5329e252e8a58c9fe2))
+
 ## [1.24.0](https://github.com/plonialmoni/bluefin/compare/v1.23.0...v1.24.0) (2023-12-22)
 
 
