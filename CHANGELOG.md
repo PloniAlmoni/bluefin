@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.25.0](https://github.com/plonialmoni/bluefin/compare/v1.24.1...v1.25.0) (2023-12-25)
+
+
+### Features
+
+* **ci:** Verify base/Chainguard image(s) with cosign before building ([#754](https://github.com/plonialmoni/bluefin/issues/754)) ([b0703f9](https://github.com/plonialmoni/bluefin/commit/b0703f95cb52c825aa0504b9bf497a57010ced62))
+
 ## [1.24.1](https://github.com/plonialmoni/bluefin/compare/v1.24.0...v1.24.1) (2023-12-24)
 
 
