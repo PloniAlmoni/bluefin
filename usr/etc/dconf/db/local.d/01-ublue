@@ -23,6 +23,9 @@ picture-options='zoom'
 primary-color='000000'
 secondary-color='FFFFFF'
 
+[org/gnome/desktop/input-sources]
+xkb-options=['caps:ctrl_modifier']
+
 [org/gnome/desktop/interface]
 enable-hot-corners=false
 clock-show-weekday=true
@@ -51,6 +54,9 @@ switch-windows-backward = ['<Shift><Alt>Tab']
 
 [org/gnome/desktop/peripherals/touchpad]
 tap-to-click=true
+
+[org/gnome/desktop/peripherals/keyboard]
+numlock-state=true
 
 [org/gnome/shell/extensions/dash-to-dock]
 dock-fixed=true
