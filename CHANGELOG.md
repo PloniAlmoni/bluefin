@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.26.1](https://github.com/plonialmoni/bluefin/compare/v1.26.0...v1.26.1) (2023-12-27)
+
+
+### Reverts
+
+* capslock changes ([07a9798](https://github.com/plonialmoni/bluefin/commit/07a97987a2d601e3a2500605b4b5693cadfbbee2))
+
 ## [1.26.0](https://github.com/plonialmoni/bluefin/compare/v1.25.0...v1.26.0) (2023-12-25)
 
 
