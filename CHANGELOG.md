@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.28.0](https://github.com/plonialmoni/bluefin/compare/v1.27.0...v1.28.0) (2023-12-31)
+
+
+### Features
+
+* bluefin-cli enable sudo/chown linuxbrew ([#763](https://github.com/plonialmoni/bluefin/issues/763)) ([c049d6c](https://github.com/plonialmoni/bluefin/commit/c049d6cea0f568c055164e393d3473419499ae5d))
+
 ## [1.27.0](https://github.com/plonialmoni/bluefin/compare/v1.26.1...v1.27.0) (2023-12-31)
 
 
