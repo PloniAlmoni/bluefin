@@ -1,6 +1,14 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.29.0](https://github.com/plonialmoni/bluefin/compare/v1.28.0...v1.29.0) (2023-12-31)
+
+
+### Features
+
+* add playerctl ([#766](https://github.com/plonialmoni/bluefin/issues/766)) ([e856ac0](https://github.com/plonialmoni/bluefin/commit/e856ac09e5c5b985aa39bb8a1cc54e0cfcc042d8))
+* **dx:** add command-not-found ([#765](https://github.com/plonialmoni/bluefin/issues/765)) ([f5409ca](https://github.com/plonialmoni/bluefin/commit/f5409ca14c4607c12159eb9e0587b420dc172145))
+
 ## [1.28.0](https://github.com/plonialmoni/bluefin/compare/v1.27.0...v1.28.0) (2023-12-31)
 
 
