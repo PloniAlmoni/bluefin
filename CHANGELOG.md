@@ -1,6 +1,20 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.27.0](https://github.com/plonialmoni/bluefin/compare/v1.26.1...v1.27.0) (2023-12-31)
+
+
+### Features
+
+* add brew package ([#760](https://github.com/plonialmoni/bluefin/issues/760)) ([85b74ea](https://github.com/plonialmoni/bluefin/commit/85b74ea9c1e5a4f017f5244ea25a1a37d3c49e13))
+* add dive command ([#762](https://github.com/plonialmoni/bluefin/issues/762)) ([98a4e80](https://github.com/plonialmoni/bluefin/commit/98a4e80651adb599c4d87f670f23d53769b79fc6))
+* incus enable script ([#759](https://github.com/plonialmoni/bluefin/issues/759)) ([c40eff7](https://github.com/plonialmoni/bluefin/commit/c40eff7d51cecb641f44187a6e040ec3c77cb38c))
+
+
+### Bug Fixes
+
+* **dx:** use upstream wolfi as a base image ([#761](https://github.com/plonialmoni/bluefin/issues/761)) ([73c3e50](https://github.com/plonialmoni/bluefin/commit/73c3e50707d42b8ddd2b55fe96c5c543d1b51bb7))
+
 ## [1.26.1](https://github.com/plonialmoni/bluefin/compare/v1.26.0...v1.26.1) (2023-12-27)
 
 
