@@ -27,6 +27,7 @@
 				"neovim-qt",
 				"numad",
 				"nautilus-gsconnect",
+				"playerctl",
 				"pulseaudio-utils",
 				"python3-pip",
 				"samba-dcerpc",
