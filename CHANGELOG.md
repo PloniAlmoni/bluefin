@@ -1,6 +1,18 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.30.0](https://github.com/plonialmoni/bluefin/compare/v1.29.0...v1.30.0) (2024-01-01)
+
+
+### Features
+
+* add dx-specific user setup, install devcontainers/docker vscode extensions by default ([#745](https://github.com/plonialmoni/bluefin/issues/745)) ([d6737cb](https://github.com/plonialmoni/bluefin/commit/d6737cb4e8c924bbc7bbc1e1651a3a1e5c94349d))
+
+
+### Bug Fixes
+
+* call the correct binary from the service unit ([#770](https://github.com/plonialmoni/bluefin/issues/770)) ([075e32c](https://github.com/plonialmoni/bluefin/commit/075e32ca19911a1e233ba4b5389e483afba8cd38))
+
 ## [1.29.0](https://github.com/plonialmoni/bluefin/compare/v1.28.0...v1.29.0) (2023-12-31)
 
 
