@@ -1,6 +1,15 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.30.1](https://github.com/plonialmoni/bluefin/compare/v1.30.0...v1.30.1) (2024-01-02)
+
+
+### Bug Fixes
+
+* **-dx:** Workaround swtpm SELinux issues ([#764](https://github.com/plonialmoni/bluefin/issues/764)) ([f8dabd4](https://github.com/plonialmoni/bluefin/commit/f8dabd479349bb5c4888913aa1acbad6f6cec177))
+* remove `systemctl enable docker` from `just docker` command ([#773](https://github.com/plonialmoni/bluefin/issues/773)) ([97ea484](https://github.com/plonialmoni/bluefin/commit/97ea484c1a9f7b8482a5deef53c30104854c9a9d))
+* start docker.service on-demand instead of on-boot ([#772](https://github.com/plonialmoni/bluefin/issues/772)) ([d965108](https://github.com/plonialmoni/bluefin/commit/d965108d75f4da14f3fa87b219007f19bbb99d94))
+
 ## [1.30.0](https://github.com/plonialmoni/bluefin/compare/v1.29.0...v1.30.0) (2024-01-01)
 
 
