@@ -1,6 +1,18 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.31.0](https://github.com/plonialmoni/bluefin/compare/v1.30.1...v1.31.0) (2024-01-03)
+
+
+### Features
+
+* **bluefin-cli:** Add host-spawn and create symlinks ([#776](https://github.com/plonialmoni/bluefin/issues/776)) ([dae9abe](https://github.com/plonialmoni/bluefin/commit/dae9abe56bfff1ba40de9da121483cc078c0babd))
+
+
+### Bug Fixes
+
+* **bluefin-cli:** Make sure /usr/bin/sh exists ([#778](https://github.com/plonialmoni/bluefin/issues/778)) ([3d0b059](https://github.com/plonialmoni/bluefin/commit/3d0b059e909316d0ac4dd42f0ae14cf3576bc1ef))
+
 ## [1.30.1](https://github.com/plonialmoni/bluefin/compare/v1.30.0...v1.30.1) (2024-01-02)
 
 
