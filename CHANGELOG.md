@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.33.0](https://github.com/plonialmoni/bluefin/compare/v1.32.0...v1.33.0) (2024-01-05)
+
+
+### Features
+
+* add firewall-config - gui for firewall ([#793](https://github.com/plonialmoni/bluefin/issues/793)) ([084c9f7](https://github.com/plonialmoni/bluefin/commit/084c9f7771cdfeb752ad60946e599ab00bce37c5))
+
 ## [1.32.0](https://github.com/plonialmoni/bluefin/compare/v1.31.0...v1.32.0) (2024-01-04)
 
 
