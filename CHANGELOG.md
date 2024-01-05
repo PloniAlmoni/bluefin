@@ -1,6 +1,19 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.32.0](https://github.com/plonialmoni/bluefin/compare/v1.31.0...v1.32.0) (2024-01-04)
+
+
+### Features
+
+* add topgrade ([#782](https://github.com/plonialmoni/bluefin/issues/782)) ([895aee9](https://github.com/plonialmoni/bluefin/commit/895aee920c321eeb431b098b613130af438bfb86))
+* **ci:** Verify remaining toolboxes ([#779](https://github.com/plonialmoni/bluefin/issues/779)) ([bf5868a](https://github.com/plonialmoni/bluefin/commit/bf5868af642c8184c042f826690974718fd480d7))
+
+
+### Bug Fixes
+
+* remove `--disable-content-trust` push flag ([#780](https://github.com/plonialmoni/bluefin/issues/780)) ([bcf3ab1](https://github.com/plonialmoni/bluefin/commit/bcf3ab1e38f2a760207344358b81fa5d0b0afe4f))
+
 ## [1.31.0](https://github.com/plonialmoni/bluefin/compare/v1.30.1...v1.31.0) (2024-01-03)
 
 
