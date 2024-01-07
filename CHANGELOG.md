@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.34.0](https://github.com/plonialmoni/bluefin/compare/v1.33.0...v1.34.0) (2024-01-07)
+
+
+### Features
+
+* **bluefin-cli:** Persist State of Cellar ([#785](https://github.com/plonialmoni/bluefin/issues/785)) ([7f52f32](https://github.com/plonialmoni/bluefin/commit/7f52f32509920f428787d645cf6f4ce9ac707963))
+
 ## [1.33.0](https://github.com/plonialmoni/bluefin/compare/v1.32.0...v1.33.0) (2024-01-05)
 
 
