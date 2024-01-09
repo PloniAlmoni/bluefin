@@ -1,6 +1,14 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.35.0](https://github.com/plonialmoni/bluefin/compare/v1.34.0...v1.35.0) (2024-01-09)
+
+
+### Features
+
+* add gaming, gamingutilities, utilities folders in gnome ([#792](https://github.com/plonialmoni/bluefin/issues/792)) ([aaa69ea](https://github.com/plonialmoni/bluefin/commit/aaa69ea71413b4ec6fb76ac212f2cac8f92a3fb3))
+* Add Warehouse ([#798](https://github.com/plonialmoni/bluefin/issues/798)) ([006cdf2](https://github.com/plonialmoni/bluefin/commit/006cdf2b849dc62c11fcc0273bbc4c28f41bd64d))
+
 ## [1.34.0](https://github.com/plonialmoni/bluefin/compare/v1.33.0...v1.34.0) (2024-01-07)
 
 
