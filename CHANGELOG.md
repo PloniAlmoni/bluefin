@@ -1,6 +1,19 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.36.0](https://github.com/plonialmoni/bluefin/compare/v1.35.0...v1.36.0) (2024-01-14)
+
+
+### Features
+
+* add contributors action ([#802](https://github.com/plonialmoni/bluefin/issues/802)) ([1768b71](https://github.com/plonialmoni/bluefin/commit/1768b71e22b56de6d837da4b2311cb93dc730624))
+
+
+### Bug Fixes
+
+* Make Wolfi build again ([#812](https://github.com/plonialmoni/bluefin/issues/812)) ([40f91a6](https://github.com/plonialmoni/bluefin/commit/40f91a6805d9f6bc6b7918302702e6d96f23ce45))
+* provide build workflow with write permissions to the repo contents ([#805](https://github.com/plonialmoni/bluefin/issues/805)) ([0d92fad](https://github.com/plonialmoni/bluefin/commit/0d92fad67f8227925646b4e01e33541703c6cccd))
+
 ## [1.35.0](https://github.com/plonialmoni/bluefin/compare/v1.34.0...v1.35.0) (2024-01-09)
 
 
