@@ -79,6 +79,7 @@ RUN wget https://copr.fedorainfracloud.org/coprs/ublue-os/bling/repo/fedora-$(rp
     cp /tmp/ublue-update.toml /usr/etc/ublue-update/ublue-update.toml && \
     systemctl enable rpm-ostree-countme.service && \
     systemctl enable tailscaled.service && \
+    systemctl enable numad.service && \
     systemctl enable dconf-update.service && \
     systemctl enable ublue-update.timer && \
     systemctl enable ublue-system-setup.service && \
@@ -121,7 +122,7 @@ COPY workarounds.sh \
      packages.json \
      build.sh \
      image-info.sh \
-    /tmp
+    /tmp/
 
 # Apply IP Forwarding before installing Docker to prevent messing with LXC networking
 RUN sysctl -p
@@ -165,7 +166,12 @@ RUN systemctl enable docker.socket && \
     systemctl disable pmie.service && \
     systemctl disable pmlogger.service
 
+
 RUN /tmp/workarounds.sh
+# add my packages
+ADD --chmod=0755 scripts/* /tmp/
+RUN /tmp/1password.sh
+RUN /tmp/more.sh
 
 # Clean up repos, everything is on the image so we don't need them
 RUN rm -f /etc/yum.repos.d/ublue-os-staging-fedora-"${FEDORA_MAJOR_VERSION}".repo && \
