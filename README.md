@@ -82,9 +82,9 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
     <td align="center">
         <a href="https://github.com/EyeCantCU">
             <img src="https://avatars.githubusercontent.com/u/18015150?v=4" width="100;" alt="EyeCantCU"/>
+            <br />
             <sub><b>RJ Trujillo</b></sub>
         </a>
-            <br />
     </td>
     <td align="center">
         <a href="https://github.com/bigpod98">
