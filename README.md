@@ -123,17 +123,17 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/jeefy">
-            <img src="https://avatars.githubusercontent.com/u/1394552?v=4" width="100;" alt="jeefy"/>
-            <br />
-            <sub><b>Jeffrey Sica</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ispanos">
             <img src="https://avatars.githubusercontent.com/u/42875202?v=4" width="100;" alt="ispanos"/>
             <br />
             <sub><b>Ion Spanos</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jeefy">
+            <img src="https://avatars.githubusercontent.com/u/1394552?v=4" width="100;" alt="jeefy"/>
+            <br />
+            <sub><b>Jeffrey Sica</b></sub>
         </a>
     </td>
     <td align="center">
@@ -173,13 +173,6 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/rothgar">
-            <img src="https://avatars.githubusercontent.com/u/371796?v=4" width="100;" alt="rothgar"/>
-            <br />
-            <sub><b>Justin Garrison</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/hisergiorojas">
             <img src="https://avatars.githubusercontent.com/u/48057303?v=4" width="100;" alt="hisergiorojas"/>
             <br />
@@ -187,65 +180,29 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/nicknamenamenick">
-            <img src="https://avatars.githubusercontent.com/u/121328689?v=4" width="100;" alt="nicknamenamenick"/>
+        <a href="https://github.com/rothgar">
+            <img src="https://avatars.githubusercontent.com/u/371796?v=4" width="100;" alt="rothgar"/>
             <br />
-            <sub><b>Pat Connors</b></sub>
+            <sub><b>Justin Garrison</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/fossrob">
-            <img src="https://avatars.githubusercontent.com/u/75099866?v=4" width="100;" alt="fossrob"/>
+        <a href="https://github.com/HikariKnight">
+            <img src="https://avatars.githubusercontent.com/u/2557889?v=4" width="100;" alt="HikariKnight"/>
             <br />
-            <sub><b>Robin Edser</b></sub>
+            <sub><b>HikariKnight</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/scottames">
-            <img src="https://avatars.githubusercontent.com/u/8071752?v=4" width="100;" alt="scottames"/>
+        <a href="https://github.com/simon511000">
+            <img src="https://avatars.githubusercontent.com/u/31013205?v=4" width="100;" alt="simon511000"/>
             <br />
-            <sub><b>Scott Ames</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/bronson">
-            <img src="https://avatars.githubusercontent.com/u/1776?v=4" width="100;" alt="bronson"/>
-            <br />
-            <sub><b>Scott Bronson</b></sub>
+            <sub><b>Simon511000</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/worldofgeese">
-            <img src="https://avatars.githubusercontent.com/u/59834693?v=4" width="100;" alt="worldofgeese"/>
-            <br />
-            <sub><b>Tao</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/bpbeatty">
-            <img src="https://avatars.githubusercontent.com/u/75324077?v=4" width="100;" alt="bpbeatty"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/b-">
-            <img src="https://avatars.githubusercontent.com/u/284789?v=4" width="100;" alt="b-"/>
-            <br />
-            <sub><b>Bri</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/dnkmmr69420">
-            <img src="https://avatars.githubusercontent.com/u/104856296?v=4" width="100;" alt="dnkmmr69420"/>
-            <br />
-            <sub><b>Dnkmmr</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/gerblesh">
-            <img src="https://avatars.githubusercontent.com/u/101901964?v=4" width="100;" alt="gerblesh"/>
+        <a href="https://github.com/rohanssrao">
+            <img src="https://avatars.githubusercontent.com/u/17805516?v=4" width="100;" alt="rohanssrao"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
@@ -259,17 +216,67 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/rohanssrao">
-            <img src="https://avatars.githubusercontent.com/u/17805516?v=4" width="100;" alt="rohanssrao"/>
+        <a href="https://github.com/gerblesh">
+            <img src="https://avatars.githubusercontent.com/u/101901964?v=4" width="100;" alt="gerblesh"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/simon511000">
-            <img src="https://avatars.githubusercontent.com/u/31013205?v=4" width="100;" alt="simon511000"/>
+        <a href="https://github.com/dnkmmr69420">
+            <img src="https://avatars.githubusercontent.com/u/104856296?v=4" width="100;" alt="dnkmmr69420"/>
             <br />
-            <sub><b>Simon511000</b></sub>
+            <sub><b>Dnkmmr</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/b-">
+            <img src="https://avatars.githubusercontent.com/u/284789?v=4" width="100;" alt="b-"/>
+            <br />
+            <sub><b>Bri</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/bpbeatty">
+            <img src="https://avatars.githubusercontent.com/u/75324077?v=4" width="100;" alt="bpbeatty"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/worldofgeese">
+            <img src="https://avatars.githubusercontent.com/u/59834693?v=4" width="100;" alt="worldofgeese"/>
+            <br />
+            <sub><b>Tao</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/bronson">
+            <img src="https://avatars.githubusercontent.com/u/1776?v=4" width="100;" alt="bronson"/>
+            <br />
+            <sub><b>Scott Bronson</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/scottames">
+            <img src="https://avatars.githubusercontent.com/u/8071752?v=4" width="100;" alt="scottames"/>
+            <br />
+            <sub><b>Scott Ames</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/fossrob">
+            <img src="https://avatars.githubusercontent.com/u/75099866?v=4" width="100;" alt="fossrob"/>
+            <br />
+            <sub><b>Robin Edser</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/nicknamenamenick">
+            <img src="https://avatars.githubusercontent.com/u/121328689?v=4" width="100;" alt="nicknamenamenick"/>
+            <br />
+            <sub><b>Pat Connors</b></sub>
         </a>
     </td>
     <td align="center">
@@ -285,20 +292,20 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
             <br />
             <sub><b>Nathaniel Warburton</b></sub>
         </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/jplock">
+            <img src="https://avatars.githubusercontent.com/u/49093?v=4" width="100;" alt="jplock"/>
+            <br />
+            <sub><b>Justin Plock</b></sub>
+        </a>
     </td>
     <td align="center">
         <a href="https://github.com/jmontoyaa">
             <img src="https://avatars.githubusercontent.com/u/158935?v=4" width="100;" alt="jmontoyaa"/>
             <br />
             <sub><b>Julio Montoya</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/HikariKnight">
-            <img src="https://avatars.githubusercontent.com/u/2557889?v=4" width="100;" alt="HikariKnight"/>
-            <br />
-            <sub><b>HikariKnight</b></sub>
         </a>
     </td>
     <td align="center">
@@ -328,15 +335,15 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
             <br />
             <sub><b>Andrej</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/alexsch01">
             <img src="https://avatars.githubusercontent.com/u/5721147?v=4" width="100;" alt="alexsch01"/>
             <br />
             <sub><b>Alex Schwartz</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/sekalengrengginang">
             <img src="https://avatars.githubusercontent.com/u/49896401?v=4" width="100;" alt="sekalengrengginang"/>
