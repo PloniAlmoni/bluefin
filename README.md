@@ -108,17 +108,17 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/hirnidrin">
-            <img src="https://avatars.githubusercontent.com/u/9514486?v=4" width="100;" alt="hirnidrin"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/bsherman">
             <img src="https://avatars.githubusercontent.com/u/60557?v=4" width="100;" alt="bsherman"/>
             <br />
             <sub><b>Benjamin Sherman</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/hirnidrin">
+            <img src="https://avatars.githubusercontent.com/u/9514486?v=4" width="100;" alt="hirnidrin"/>
+            <br />
+            <sub><b>Null</b></sub>
         </a>
     </td></tr>
 <tr>
