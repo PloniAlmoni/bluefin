@@ -1,6 +1,98 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.18.0](https://github.com/plonialmoni/bluefin/compare/v1.17.0...v1.18.0) (2024-01-29)
+
+
+### Features
+
+* add brew package ([#760](https://github.com/plonialmoni/bluefin/issues/760)) ([85b74ea](https://github.com/plonialmoni/bluefin/commit/85b74ea9c1e5a4f017f5244ea25a1a37d3c49e13))
+* add contributors action ([#802](https://github.com/plonialmoni/bluefin/issues/802)) ([1768b71](https://github.com/plonialmoni/bluefin/commit/1768b71e22b56de6d837da4b2311cb93dc730624))
+* Add default config for Pods flatpak ([#839](https://github.com/plonialmoni/bluefin/issues/839)) ([502664a](https://github.com/plonialmoni/bluefin/commit/502664aa8f5f4e15c0b76698d2452f9c26e4620c))
+* add distrobuilder to -dx ([#739](https://github.com/plonialmoni/bluefin/issues/739)) ([894d397](https://github.com/plonialmoni/bluefin/commit/894d397e8b79d56ed66ccbbeb76efac07dd27504))
+* add dive command ([#762](https://github.com/plonialmoni/bluefin/issues/762)) ([98a4e80](https://github.com/plonialmoni/bluefin/commit/98a4e80651adb599c4d87f670f23d53769b79fc6))
+* add dx-specific user setup, install devcontainers/docker vscode extensions by default ([#745](https://github.com/plonialmoni/bluefin/issues/745)) ([d6737cb](https://github.com/plonialmoni/bluefin/commit/d6737cb4e8c924bbc7bbc1e1651a3a1e5c94349d))
+* Add dynamic MOTD tips and image info ([#847](https://github.com/plonialmoni/bluefin/issues/847)) ([f855259](https://github.com/plonialmoni/bluefin/commit/f85525937e19a63b627e0385f25f30932fe80f0e))
+* add firewall-config - gui for firewall ([#793](https://github.com/plonialmoni/bluefin/issues/793)) ([084c9f7](https://github.com/plonialmoni/bluefin/commit/084c9f7771cdfeb752ad60946e599ab00bce37c5))
+* add gaming, gamingutilities, utilities folders in gnome ([#792](https://github.com/plonialmoni/bluefin/issues/792)) ([aaa69ea](https://github.com/plonialmoni/bluefin/commit/aaa69ea71413b4ec6fb76ac212f2cac8f92a3fb3))
+* Add Logo Menu & Prepare for Prompt future ([#732](https://github.com/plonialmoni/bluefin/issues/732)) ([94bb013](https://github.com/plonialmoni/bluefin/commit/94bb013a241e40c74d381100dc3b166c2e033c32))
+* add patched power-profiles-daemon ([#758](https://github.com/plonialmoni/bluefin/issues/758)) ([cab8b83](https://github.com/plonialmoni/bluefin/commit/cab8b833fb908aa2482fd0a209c74315ef690a87))
+* add playerctl ([#766](https://github.com/plonialmoni/bluefin/issues/766)) ([e856ac0](https://github.com/plonialmoni/bluefin/commit/e856ac09e5c5b985aa39bb8a1cc54e0cfcc042d8))
+* Add pods to default install ([#825](https://github.com/plonialmoni/bluefin/issues/825)) ([7f76f9d](https://github.com/plonialmoni/bluefin/commit/7f76f9d9d4b1c6989db7def8e64232cab1570355))
+* Add Prompt integration ([#728](https://github.com/plonialmoni/bluefin/issues/728)) ([a03332d](https://github.com/plonialmoni/bluefin/commit/a03332d8f8c6a1cc218b9c8afac7a2f6a6a4c5ea))
+* add topgrade ([#782](https://github.com/plonialmoni/bluefin/issues/782)) ([895aee9](https://github.com/plonialmoni/bluefin/commit/895aee920c321eeb431b098b613130af438bfb86))
+* add user-motd banner ([#840](https://github.com/plonialmoni/bluefin/issues/840)) ([efc420a](https://github.com/plonialmoni/bluefin/commit/efc420a8c1fe859683f66fd57585cbd919031d94))
+* Add Warehouse ([#798](https://github.com/plonialmoni/bluefin/issues/798)) ([006cdf2](https://github.com/plonialmoni/bluefin/commit/006cdf2b849dc62c11fcc0273bbc4c28f41bd64d))
+* bluefin-cli enable sudo/chown linuxbrew ([#763](https://github.com/plonialmoni/bluefin/issues/763)) ([c049d6c](https://github.com/plonialmoni/bluefin/commit/c049d6cea0f568c055164e393d3473419499ae5d))
+* **bluefin-cli:** Add host-spawn and create symlinks ([#776](https://github.com/plonialmoni/bluefin/issues/776)) ([dae9abe](https://github.com/plonialmoni/bluefin/commit/dae9abe56bfff1ba40de9da121483cc078c0babd))
+* **bluefin-cli:** Persist State of Cellar ([#785](https://github.com/plonialmoni/bluefin/issues/785)) ([7f52f32](https://github.com/plonialmoni/bluefin/commit/7f52f32509920f428787d645cf6f4ce9ac707963))
+* **ci:** Introduce a testing tag ([#838](https://github.com/plonialmoni/bluefin/issues/838)) ([d52702b](https://github.com/plonialmoni/bluefin/commit/d52702b243353bb0a4b7c6cd88cb4a755249e360))
+* **ci:** Verify base/Chainguard image(s) with cosign before building ([#754](https://github.com/plonialmoni/bluefin/issues/754)) ([b0703f9](https://github.com/plonialmoni/bluefin/commit/b0703f95cb52c825aa0504b9bf497a57010ced62))
+* **ci:** Verify remaining toolboxes ([#779](https://github.com/plonialmoni/bluefin/issues/779)) ([bf5868a](https://github.com/plonialmoni/bluefin/commit/bf5868af642c8184c042f826690974718fd480d7))
+* **dx:** add command-not-found ([#765](https://github.com/plonialmoni/bluefin/issues/765)) ([f5409ca](https://github.com/plonialmoni/bluefin/commit/f5409ca14c4607c12159eb9e0587b420dc172145))
+* **dx:** add kcli ([#724](https://github.com/plonialmoni/bluefin/issues/724)) ([1a11711](https://github.com/plonialmoni/bluefin/commit/1a11711761bdb4eaeb55060d149cbd21a0c3e326))
+* **dx:** add make back ([#731](https://github.com/plonialmoni/bluefin/issues/731)) ([236d37f](https://github.com/plonialmoni/bluefin/commit/236d37fb16e9f1d981adbbef01e3287431c25191))
+* **dx:** Add wheel users to docker,incus-admin,lxd,libvirt groups ([#775](https://github.com/plonialmoni/bluefin/issues/775)) ([3dd7809](https://github.com/plonialmoni/bluefin/commit/3dd78096f6091ad4a9b87e518203bef15b9b0f6a))
+* **dx:** turn on docker socket by default ([#740](https://github.com/plonialmoni/bluefin/issues/740)) ([ac2027c](https://github.com/plonialmoni/bluefin/commit/ac2027cdd0e71c438c9bfd75fc7894a2083f4c2b))
+* **dx:** Use DevPod from the ublue-os/staging copr ([#738](https://github.com/plonialmoni/bluefin/issues/738)) ([4202205](https://github.com/plonialmoni/bluefin/commit/4202205a665210f9b382dace440b3385a43977ca))
+* Enable num-lock by default ([#756](https://github.com/plonialmoni/bluefin/issues/756)) ([6421500](https://github.com/plonialmoni/bluefin/commit/64215008eb3f612b66306ad530d63b8adc736e93))
+* Fix caps-lock input delay ([#757](https://github.com/plonialmoni/bluefin/issues/757)) ([dda52b0](https://github.com/plonialmoni/bluefin/commit/dda52b0d769e11d9af33f8e3cfb8c72fbfad7bd1))
+* incus enable script ([#759](https://github.com/plonialmoni/bluefin/issues/759)) ([c40eff7](https://github.com/plonialmoni/bluefin/commit/c40eff7d51cecb641f44187a6e040ec3c77cb38c))
+* Initial Container wireup ([#844](https://github.com/plonialmoni/bluefin/issues/844)) ([bc2128e](https://github.com/plonialmoni/bluefin/commit/bc2128e114308888bd27eb0b71c37b696618e789))
+* jazz up the motd ([#849](https://github.com/plonialmoni/bluefin/issues/849)) ([72b9106](https://github.com/plonialmoni/bluefin/commit/72b91062dd0fd6c0b9efd0894729d4d83b67d912))
+* match bazzite's logomenu ([#826](https://github.com/plonialmoni/bluefin/issues/826)) ([219f74e](https://github.com/plonialmoni/bluefin/commit/219f74ea28e953605c76d9323efa18559a08ba06))
+* move toolboxes to ublue-os/toolboxes ([#814](https://github.com/plonialmoni/bluefin/issues/814)) ([0e2d892](https://github.com/plonialmoni/bluefin/commit/0e2d8928d931eeb56f0cfa028e811c6858a44d8f))
+* **prompt:** match bazzite and g-t behavior ([#741](https://github.com/plonialmoni/bluefin/issues/741)) ([cd96a51](https://github.com/plonialmoni/bluefin/commit/cd96a51cc80ecf77154084ac3a68a4b7b41453b5))
+* set theme for Prompt ([#819](https://github.com/plonialmoni/bluefin/issues/819)) ([47c7f6f](https://github.com/plonialmoni/bluefin/commit/47c7f6fd5bd61b9f2e860a4ed7cc2220e8642678))
+* Switch to much smaller nerd-fonts package ([#837](https://github.com/plonialmoni/bluefin/issues/837)) ([d89aeba](https://github.com/plonialmoni/bluefin/commit/d89aebaa461563eb2ded7957ca015baf854681b7))
+* switch to tailscale-gnome-qs extension ([#744](https://github.com/plonialmoni/bluefin/issues/744)) ([5b794d3](https://github.com/plonialmoni/bluefin/commit/5b794d3a86cb36faaff5cfdc6523c209b7be9340))
+* Switch to topgrade powered ublue-update ([#835](https://github.com/plonialmoni/bluefin/issues/835)) ([bf1e771](https://github.com/plonialmoni/bluefin/commit/bf1e771192c6c5fd51c0bc36ecc20959a0d9e030))
+* switch to winter wallpaper ([#714](https://github.com/plonialmoni/bluefin/issues/714)) ([021de85](https://github.com/plonialmoni/bluefin/commit/021de8532e8f7d934a933326819ce9c789ce9183))
+* **toolbox:** Verify wolfi-base before building ([#774](https://github.com/plonialmoni/bluefin/issues/774)) ([e4ab9d3](https://github.com/plonialmoni/bluefin/commit/e4ab9d3863661f38a2cbf77a6c2b02f5f95f4608))
+* use topgrade for manual upgrades ([#822](https://github.com/plonialmoni/bluefin/issues/822)) ([8639734](https://github.com/plonialmoni/bluefin/commit/86397348596cba72ccbe46ef642e7b46e9d258f4))
+
+
+### Bug Fixes
+
+* **-dx:** Workaround swtpm SELinux issues ([#764](https://github.com/plonialmoni/bluefin/issues/764)) ([f8dabd4](https://github.com/plonialmoni/bluefin/commit/f8dabd479349bb5c4888913aa1acbad6f6cec177))
+* Add missing quotes to dconf string value. ([#821](https://github.com/plonialmoni/bluefin/issues/821)) ([c0a70bc](https://github.com/plonialmoni/bluefin/commit/c0a70bc973323ebdd1a8af9c77914a6c84dea15a))
+* add more tips ([08e3360](https://github.com/plonialmoni/bluefin/commit/08e336088030145c8567c9939f16dd78692eef32))
+* Add nerd fonts to all images ([0a83c8b](https://github.com/plonialmoni/bluefin/commit/0a83c8bd631905b5c12fde91a53013e9c6e407b4))
+* Always launch prompt in a new window when xdg-terminal-exec is called with no input ([#748](https://github.com/plonialmoni/bluefin/issues/748)) ([0531ff9](https://github.com/plonialmoni/bluefin/commit/0531ff926d8c48ffb86c220845a2ae9eda812e32))
+* **bluefin-cli:** Make sure /usr/bin/sh exists ([#778](https://github.com/plonialmoni/bluefin/issues/778)) ([3d0b059](https://github.com/plonialmoni/bluefin/commit/3d0b059e909316d0ac4dd42f0ae14cf3576bc1ef))
+* call the correct binary from the service unit ([#770](https://github.com/plonialmoni/bluefin/issues/770)) ([075e32c](https://github.com/plonialmoni/bluefin/commit/075e32ca19911a1e233ba4b5389e483afba8cd38))
+* Correct issue with command check in xdg-terminal-exec ([e48a816](https://github.com/plonialmoni/bluefin/commit/e48a81688a5b0a0c812b0a5329e252e8a58c9fe2))
+* Correct motd syntax ([45eaad7](https://github.com/plonialmoni/bluefin/commit/45eaad780eefa4ac038130e41c0683cf62045222))
+* Correct skel path for dx files ([0c9abd5](https://github.com/plonialmoni/bluefin/commit/0c9abd51466c7ca98a80a4765e6636f4a0b0f131))
+* Correct skel.d error in installer ([e116567](https://github.com/plonialmoni/bluefin/commit/e116567a538256b52ce448c51a2ed20fd4bfc4c5))
+* Drop 38 support in gnome-vrr, add Xwayland patch for Nvidia 545 ([#715](https://github.com/plonialmoni/bluefin/issues/715)) ([333f8d6](https://github.com/plonialmoni/bluefin/commit/333f8d64276d95bef06a093d3506f87194b9bd0f))
+* **dx:** use upstream wolfi as a base image ([#761](https://github.com/plonialmoni/bluefin/issues/761)) ([73c3e50](https://github.com/plonialmoni/bluefin/commit/73c3e50707d42b8ddd2b55fe96c5c543d1b51bb7))
+* Hide menu icons without deleting .desktop files ([#786](https://github.com/plonialmoni/bluefin/issues/786)) ([12f3f00](https://github.com/plonialmoni/bluefin/commit/12f3f008a009ddea58bc64723869664665642136))
+* **just:** correct the arg order for AssembleList when making mlbox ([#845](https://github.com/plonialmoni/bluefin/issues/845)) ([807b5b3](https://github.com/plonialmoni/bluefin/commit/807b5b313ef5669f850245a4856c21c45fb6cdc3))
+* make topgrade --yes by default ([#824](https://github.com/plonialmoni/bluefin/issues/824)) ([58e4244](https://github.com/plonialmoni/bluefin/commit/58e42441b6f785bd2a99e50c0b18fd97a5dddfcd))
+* Make Wolfi build again ([#812](https://github.com/plonialmoni/bluefin/issues/812)) ([40f91a6](https://github.com/plonialmoni/bluefin/commit/40f91a6805d9f6bc6b7918302702e6d96f23ce45))
+* **motd:** minor text fix ([#851](https://github.com/plonialmoni/bluefin/issues/851)) ([fddddea](https://github.com/plonialmoni/bluefin/commit/fddddeade6bd9f331082657f668d113ee34a55a3))
+* Port over a fix for flatpaks failing to install from Bazzite ([#730](https://github.com/plonialmoni/bluefin/issues/730)) ([846af93](https://github.com/plonialmoni/bluefin/commit/846af936f6d24d09f831ed44d5c5e8b59efe9c8a))
+* provide build workflow with write permissions to the repo contents ([#805](https://github.com/plonialmoni/bluefin/issues/805)) ([0d92fad](https://github.com/plonialmoni/bluefin/commit/0d92fad67f8227925646b4e01e33541703c6cccd))
+* quadlet locations ([#846](https://github.com/plonialmoni/bluefin/issues/846)) ([d97f710](https://github.com/plonialmoni/bluefin/commit/d97f710c9367d3279fb0e42f8350053fe67f6433))
+* remove `--disable-content-trust` push flag ([#780](https://github.com/plonialmoni/bluefin/issues/780)) ([bcf3ab1](https://github.com/plonialmoni/bluefin/commit/bcf3ab1e38f2a760207344358b81fa5d0b0afe4f))
+* remove `systemctl enable docker` from `just docker` command ([#773](https://github.com/plonialmoni/bluefin/issues/773)) ([97ea484](https://github.com/plonialmoni/bluefin/commit/97ea484c1a9f7b8482a5deef53c30104854c9a9d))
+* Replace upstream file instead of adding new one for ujust update ([a7ba176](https://github.com/plonialmoni/bluefin/commit/a7ba17627afd9b257741e81e7afed312ace9e1e0))
+* Restore Control+Alt+T shortcut for terminals ([#747](https://github.com/plonialmoni/bluefin/issues/747)) ([c8d0663](https://github.com/plonialmoni/bluefin/commit/c8d0663f73b5496751a516880b43f533b8e014ad))
+* small adjustments to motd ([#848](https://github.com/plonialmoni/bluefin/issues/848)) ([96cd5e3](https://github.com/plonialmoni/bluefin/commit/96cd5e37895bf64591a806e664b5a9926a899586))
+* start docker.service on-demand instead of on-boot ([#772](https://github.com/plonialmoni/bluefin/issues/772)) ([d965108](https://github.com/plonialmoni/bluefin/commit/d965108d75f4da14f3fa87b219007f19bbb99d94))
+* Temporarily remove xwayland override ([fd4746f](https://github.com/plonialmoni/bluefin/commit/fd4746f8bdac0ab94b506a82916356c0cfd29882))
+* **ubuntu:** slim down ubuntu toolbox ([#725](https://github.com/plonialmoni/bluefin/issues/725)) ([b43a5f7](https://github.com/plonialmoni/bluefin/commit/b43a5f75424ba92e11bb0d8a9cbe30f11f35ea0f))
+* Update README.md to update the http links to https ([#787](https://github.com/plonialmoni/bluefin/issues/787)) ([9a8c9b2](https://github.com/plonialmoni/bluefin/commit/9a8c9b268dc805811e53cdc126e3e137d61ab411))
+* update repobeats ([5655a19](https://github.com/plonialmoni/bluefin/commit/5655a19bcb60e32840fe04fd43e01c3837a67e5d))
+* use tailscale-qs for F39 only ([#746](https://github.com/plonialmoni/bluefin/issues/746)) ([d6f26e2](https://github.com/plonialmoni/bluefin/commit/d6f26e22eb60e53d163e77417ee89c44fdcf58ae))
+* **wolfi:** move bluefin-cli to wolfi ([#717](https://github.com/plonialmoni/bluefin/issues/717)) ([89be8ef](https://github.com/plonialmoni/bluefin/commit/89be8ef5727414453bbd8a9c76f5f4541c1b3564))
+
+
+### Reverts
+
+* capslock changes ([07a9798](https://github.com/plonialmoni/bluefin/commit/07a97987a2d601e3a2500605b4b5693cadfbbee2))
+
 ## [1.17.0](https://github.com/plonialmoni/bluefin/compare/v1.16.0...v1.17.0) (2024-01-29)
 
 
