@@ -94,17 +94,17 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/marcoceppi">
-            <img src="https://avatars.githubusercontent.com/u/70613?v=4" width="100;" alt="marcoceppi"/>
-            <br />
-            <sub><b>Marco Ceppi</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/m2Giles">
             <img src="https://avatars.githubusercontent.com/u/69128853?v=4" width="100;" alt="m2Giles"/>
             <br />
             <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/marcoceppi">
+            <img src="https://avatars.githubusercontent.com/u/70613?v=4" width="100;" alt="marcoceppi"/>
+            <br />
+            <sub><b>Marco Ceppi</b></sub>
         </a>
     </td>
     <td align="center">
