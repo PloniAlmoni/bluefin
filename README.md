@@ -87,17 +87,17 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/bigpod98">
-            <img src="https://avatars.githubusercontent.com/u/6921913?v=4" width="100;" alt="bigpod98"/>
-            <br />
-            <sub><b>Primož Ajdišek</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/m2Giles">
             <img src="https://avatars.githubusercontent.com/u/69128853?v=4" width="100;" alt="m2Giles"/>
             <br />
             <sub><b>Null</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/bigpod98">
+            <img src="https://avatars.githubusercontent.com/u/6921913?v=4" width="100;" alt="bigpod98"/>
+            <br />
+            <sub><b>Primož Ajdišek</b></sub>
         </a>
     </td>
     <td align="center">
