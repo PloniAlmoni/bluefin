@@ -1,6 +1,70 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.35.0](https://github.com/plonialmoni/bluefin/compare/v1.34.0...v1.35.0) (2024-02-07)
+
+
+### Features
+
+* add contributors action ([#802](https://github.com/plonialmoni/bluefin/issues/802)) ([1768b71](https://github.com/plonialmoni/bluefin/commit/1768b71e22b56de6d837da4b2311cb93dc730624))
+* Add default config for Pods flatpak ([#839](https://github.com/plonialmoni/bluefin/issues/839)) ([502664a](https://github.com/plonialmoni/bluefin/commit/502664aa8f5f4e15c0b76698d2452f9c26e4620c))
+* Add dynamic MOTD tips and image info ([#847](https://github.com/plonialmoni/bluefin/issues/847)) ([f855259](https://github.com/plonialmoni/bluefin/commit/f85525937e19a63b627e0385f25f30932fe80f0e))
+* add gaming, gamingutilities, utilities folders in gnome ([#792](https://github.com/plonialmoni/bluefin/issues/792)) ([aaa69ea](https://github.com/plonialmoni/bluefin/commit/aaa69ea71413b4ec6fb76ac212f2cac8f92a3fb3))
+* add mastodon tip ([91ab228](https://github.com/plonialmoni/bluefin/commit/91ab2285468967a6a02c4e74c0f62534e5c9d4fb))
+* Add modified Catppuccin theme with dark/light support as the default for Prompt ([#865](https://github.com/plonialmoni/bluefin/issues/865)) ([507ae9a](https://github.com/plonialmoni/bluefin/commit/507ae9a7aa49cada9831f6c47d8c0102c7f78ffc))
+* Add pods to default install ([#825](https://github.com/plonialmoni/bluefin/issues/825)) ([7f76f9d](https://github.com/plonialmoni/bluefin/commit/7f76f9d9d4b1c6989db7def8e64232cab1570355))
+* add user-motd banner ([#840](https://github.com/plonialmoni/bluefin/issues/840)) ([efc420a](https://github.com/plonialmoni/bluefin/commit/efc420a8c1fe859683f66fd57585cbd919031d94))
+* Add Warehouse ([#798](https://github.com/plonialmoni/bluefin/issues/798)) ([006cdf2](https://github.com/plonialmoni/bluefin/commit/006cdf2b849dc62c11fcc0273bbc4c28f41bd64d))
+* **ci:** Introduce a testing tag ([#838](https://github.com/plonialmoni/bluefin/issues/838)) ([d52702b](https://github.com/plonialmoni/bluefin/commit/d52702b243353bb0a4b7c6cd88cb4a755249e360))
+* Enable GSP by default for Nvidia hardware, needed by NVK ([#877](https://github.com/plonialmoni/bluefin/issues/877)) ([684d27a](https://github.com/plonialmoni/bluefin/commit/684d27a2675421f2e9af5c5b95df64a8775adb72))
+* Initial Container wireup ([#844](https://github.com/plonialmoni/bluefin/issues/844)) ([bc2128e](https://github.com/plonialmoni/bluefin/commit/bc2128e114308888bd27eb0b71c37b696618e789))
+* jazz up the motd ([#849](https://github.com/plonialmoni/bluefin/issues/849)) ([72b9106](https://github.com/plonialmoni/bluefin/commit/72b91062dd0fd6c0b9efd0894729d4d83b67d912))
+* **just:** remove things we don't use from the justfile ([#852](https://github.com/plonialmoni/bluefin/issues/852)) ([f3603de](https://github.com/plonialmoni/bluefin/commit/f3603debd8039ba56332c3ba7cc253b73da8ce41))
+* match bazzite's logomenu ([#826](https://github.com/plonialmoni/bluefin/issues/826)) ([219f74e](https://github.com/plonialmoni/bluefin/commit/219f74ea28e953605c76d9323efa18559a08ba06))
+* move toolboxes to ublue-os/toolboxes ([#814](https://github.com/plonialmoni/bluefin/issues/814)) ([0e2d892](https://github.com/plonialmoni/bluefin/commit/0e2d8928d931eeb56f0cfa028e811c6858a44d8f))
+* prompt integration with quadlets ([#874](https://github.com/plonialmoni/bluefin/issues/874)) ([61ea499](https://github.com/plonialmoni/bluefin/commit/61ea4995fca066a892f4dbd693ab1f66dd11d026))
+* Replace tips with a check engine light when the booted image is over a month old ([#863](https://github.com/plonialmoni/bluefin/issues/863)) ([aa27a95](https://github.com/plonialmoni/bluefin/commit/aa27a958a3bfbe83a300cb6642ead4436d079d83))
+* set theme for Prompt ([#819](https://github.com/plonialmoni/bluefin/issues/819)) ([47c7f6f](https://github.com/plonialmoni/bluefin/commit/47c7f6fd5bd61b9f2e860a4ed7cc2220e8642678))
+* Switch to much smaller nerd-fonts package ([#837](https://github.com/plonialmoni/bluefin/issues/837)) ([d89aeba](https://github.com/plonialmoni/bluefin/commit/d89aebaa461563eb2ded7957ca015baf854681b7))
+* Switch to system level flatpaks ([#790](https://github.com/plonialmoni/bluefin/issues/790)) ([9eaed15](https://github.com/plonialmoni/bluefin/commit/9eaed157dc1afe08d3ff496ca6e69f725a1ac8ac))
+* Switch to topgrade powered ublue-update ([#835](https://github.com/plonialmoni/bluefin/issues/835)) ([bf1e771](https://github.com/plonialmoni/bluefin/commit/bf1e771192c6c5fd51c0bc36ecc20959a0d9e030))
+* Switch to TuneD from PPD (F39+) ([#836](https://github.com/plonialmoni/bluefin/issues/836)) ([3df0332](https://github.com/plonialmoni/bluefin/commit/3df0332d6b49a2f5c413e2d3c0e8eb0105d98b4e))
+* use topgrade for manual upgrades ([#822](https://github.com/plonialmoni/bluefin/issues/822)) ([8639734](https://github.com/plonialmoni/bluefin/commit/86397348596cba72ccbe46ef642e7b46e9d258f4))
+
+
+### Bug Fixes
+
+* add flathub donation link ([47504be](https://github.com/plonialmoni/bluefin/commit/47504be84ffdce79c5d8e0fdfa4d1929e3dfcdb1))
+* Add missing quotes to dconf string value. ([#821](https://github.com/plonialmoni/bluefin/issues/821)) ([c0a70bc](https://github.com/plonialmoni/bluefin/commit/c0a70bc973323ebdd1a8af9c77914a6c84dea15a))
+* add more tips ([08e3360](https://github.com/plonialmoni/bluefin/commit/08e336088030145c8567c9939f16dd78692eef32))
+* Add nerd fonts to all images ([0a83c8b](https://github.com/plonialmoni/bluefin/commit/0a83c8bd631905b5c12fde91a53013e9c6e407b4))
+* Correct motd syntax ([45eaad7](https://github.com/plonialmoni/bluefin/commit/45eaad780eefa4ac038130e41c0683cf62045222))
+* correct Pods packagename ([#867](https://github.com/plonialmoni/bluefin/issues/867)) ([ce2e723](https://github.com/plonialmoni/bluefin/commit/ce2e723eb1de4cfcd50bfbae6231ee9be44b1ecc))
+* Correct skel path for dx files ([0c9abd5](https://github.com/plonialmoni/bluefin/commit/0c9abd51466c7ca98a80a4765e6636f4a0b0f131))
+* Correct skel.d error in installer ([e116567](https://github.com/plonialmoni/bluefin/commit/e116567a538256b52ce448c51a2ed20fd4bfc4c5))
+* Ensure flathub repo is always installed ([#861](https://github.com/plonialmoni/bluefin/issues/861)) ([4c6fcef](https://github.com/plonialmoni/bluefin/commit/4c6fcef15d18a2be2161a77370c1720feb232327))
+* icon spacing ([39aa492](https://github.com/plonialmoni/bluefin/commit/39aa492696375c2ce5acb4b7164830e05bdc9128))
+* improve ujust bluefin-cli ([#857](https://github.com/plonialmoni/bluefin/issues/857)) ([c64c8fb](https://github.com/plonialmoni/bluefin/commit/c64c8fbc1557d5a71222d4d2694d2e75c7eb862c))
+* **just:** clean up distroboxes ([#871](https://github.com/plonialmoni/bluefin/issues/871)) ([1faa99a](https://github.com/plonialmoni/bluefin/commit/1faa99aa73a912cb049cadf1017090a6b079c5ff))
+* **just:** correct the arg order for AssembleList when making mlbox ([#845](https://github.com/plonialmoni/bluefin/issues/845)) ([807b5b3](https://github.com/plonialmoni/bluefin/commit/807b5b313ef5669f850245a4856c21c45fb6cdc3))
+* make topgrade --yes by default ([#824](https://github.com/plonialmoni/bluefin/issues/824)) ([58e4244](https://github.com/plonialmoni/bluefin/commit/58e42441b6f785bd2a99e50c0b18fd97a5dddfcd))
+* Make Wolfi build again ([#812](https://github.com/plonialmoni/bluefin/issues/812)) ([40f91a6](https://github.com/plonialmoni/bluefin/commit/40f91a6805d9f6bc6b7918302702e6d96f23ce45))
+* mastodon url ([81f1648](https://github.com/plonialmoni/bluefin/commit/81f1648dae400b9d3de9154bb554e1d567150320))
+* more tips ([a3ed979](https://github.com/plonialmoni/bluefin/commit/a3ed979c186c8c79ef634c77b4936ccb38713901))
+* **motd:** minor text fix ([#851](https://github.com/plonialmoni/bluefin/issues/851)) ([fddddea](https://github.com/plonialmoni/bluefin/commit/fddddeade6bd9f331082657f668d113ee34a55a3))
+* provide build workflow with write permissions to the repo contents ([#805](https://github.com/plonialmoni/bluefin/issues/805)) ([0d92fad](https://github.com/plonialmoni/bluefin/commit/0d92fad67f8227925646b4e01e33541703c6cccd))
+* quadlet locations ([#846](https://github.com/plonialmoni/bluefin/issues/846)) ([d97f710](https://github.com/plonialmoni/bluefin/commit/d97f710c9367d3279fb0e42f8350053fe67f6433))
+* Replace upstream file instead of adding new one for ujust update ([a7ba176](https://github.com/plonialmoni/bluefin/commit/a7ba17627afd9b257741e81e7afed312ace9e1e0))
+* Restore Ubuntu & Cascadia code fonts after previous switch to simpler nerd-font package ([#856](https://github.com/plonialmoni/bluefin/issues/856)) ([cbe6532](https://github.com/plonialmoni/bluefin/commit/cbe65327e57d9c044fb28803cdbafc78823ee322))
+* small adjustments to motd ([#848](https://github.com/plonialmoni/bluefin/issues/848)) ([96cd5e3](https://github.com/plonialmoni/bluefin/commit/96cd5e37895bf64591a806e664b5a9926a899586))
+* update bluefin.md ([de1c9c9](https://github.com/plonialmoni/bluefin/commit/de1c9c9da9def98b17633462b9d96720384ddee3))
+* update motd generation ([#853](https://github.com/plonialmoni/bluefin/issues/853)) ([844bc15](https://github.com/plonialmoni/bluefin/commit/844bc15182a0cefef322e447fb222d466c770f68))
+* update repobeats ([5655a19](https://github.com/plonialmoni/bluefin/commit/5655a19bcb60e32840fe04fd43e01c3837a67e5d))
+* update tips ([f75119d](https://github.com/plonialmoni/bluefin/commit/f75119dba7d687b8ea89166ef62bffab8a35eb9f))
+* update tips ([9839d49](https://github.com/plonialmoni/bluefin/commit/9839d49e139e7378973e0db4a308e6b729fe1422))
+* update tips ([#860](https://github.com/plonialmoni/bluefin/issues/860)) ([0a88a21](https://github.com/plonialmoni/bluefin/commit/0a88a211faa44e1f14d77990f934fb8d742b1cbd))
+* wrong file name for quadlet ([#869](https://github.com/plonialmoni/bluefin/issues/869)) ([1070868](https://github.com/plonialmoni/bluefin/commit/1070868530233602bc4ea5a3b401850fa8a8308d))
+
 ## [1.34.0](https://github.com/plonialmoni/bluefin/compare/v1.33.0...v1.34.0) (2024-02-05)
 
 
