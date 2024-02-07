@@ -3,6 +3,9 @@
 **This image is considered Beta** 
 
 ## [Download the test ISO](https://github.com/ublue-os/bluefin/releases/)
+
+(Test ISO is upstream. To run this fork it must be rpm-ostree rebased.)
+
 ## [projectbluefin.io](https://projectbluefin.io)
 ## [Announcement Blog Post](https://www.ypsidanger.com/announcing-project-bluefin/)
 
