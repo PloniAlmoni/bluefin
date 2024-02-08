@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.37.1](https://github.com/plonialmoni/bluefin/compare/v1.37.0...v1.37.1) (2024-02-08)
+
+
+### Bug Fixes
+
+* Correct default font applied to VSCode ([#879](https://github.com/plonialmoni/bluefin/issues/879)) ([3e0e074](https://github.com/plonialmoni/bluefin/commit/3e0e07405df19774a934f8c399cea5226a6315c9))
+
 ## [1.37.0](https://github.com/plonialmoni/bluefin/compare/v1.36.0...v1.37.0) (2024-02-08)
 
 
