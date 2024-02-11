@@ -1,6 +1,19 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.38.0](https://github.com/plonialmoni/bluefin/compare/v1.37.1...v1.38.0) (2024-02-11)
+
+
+### Features
+
+* add ability to set Prompt terminal transparency with ujust ([#886](https://github.com/plonialmoni/bluefin/issues/886)) ([98873c5](https://github.com/plonialmoni/bluefin/commit/98873c5f151ce88368a178894b4b13d9d132b259))
+* add podman wrapper for vscode ([#885](https://github.com/plonialmoni/bluefin/issues/885)) ([6173cc9](https://github.com/plonialmoni/bluefin/commit/6173cc913b4d408b673a8e51f5e980a611cc7a6f))
+
+
+### Bug Fixes
+
+* chmod ([#887](https://github.com/plonialmoni/bluefin/issues/887)) ([922550e](https://github.com/plonialmoni/bluefin/commit/922550ec9db6b45fca9bd311e63e42852a33ad38))
+
 ## [1.37.1](https://github.com/plonialmoni/bluefin/compare/v1.37.0...v1.37.1) (2024-02-08)
 
 
