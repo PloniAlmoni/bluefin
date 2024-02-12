@@ -1,6 +1,20 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.39.0](https://github.com/plonialmoni/bluefin/compare/v1.38.0...v1.39.0) (2024-02-12)
+
+
+### Features
+
+* **dx:** add remote-containers extension to vscode ([#888](https://github.com/plonialmoni/bluefin/issues/888)) ([c3251a9](https://github.com/plonialmoni/bluefin/commit/c3251a9e6e23b22a2c82b761b509796a614eadd6))
+* Get Atuin from bluefin-cli ([#895](https://github.com/plonialmoni/bluefin/issues/895)) ([95ca17f](https://github.com/plonialmoni/bluefin/commit/95ca17f462604e9f40b77367c359ccea0e893966))
+* improve prompt integration with quadlets ([#889](https://github.com/plonialmoni/bluefin/issues/889)) ([267e5be](https://github.com/plonialmoni/bluefin/commit/267e5be35d824a5c921f18bce9fc151ed6762947))
+
+
+### Bug Fixes
+
+* correct name in enable-bluefin-cli.sh ([#894](https://github.com/plonialmoni/bluefin/issues/894)) ([36adbfd](https://github.com/plonialmoni/bluefin/commit/36adbfdb37e66b6a66320255da068348b234aee7))
+
 ## [1.38.0](https://github.com/plonialmoni/bluefin/compare/v1.37.1...v1.38.0) (2024-02-11)
 
 
