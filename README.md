@@ -75,25 +75,25 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/m2Giles">
+            <img src="https://avatars.githubusercontent.com/u/69128853?v=4" width="100;" alt="m2Giles"/>
+            <br />
+            <sub><b>Null</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/p5">
             <img src="https://avatars.githubusercontent.com/u/46304672?v=4" width="100;" alt="p5"/>
             <br />
             <sub><b>Robert Sturla</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/EyeCantCU">
             <img src="https://avatars.githubusercontent.com/u/18015150?v=4" width="100;" alt="EyeCantCU"/>
             <br />
             <sub><b>RJ Trujillo</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/m2Giles">
-            <img src="https://avatars.githubusercontent.com/u/69128853?v=4" width="100;" alt="m2Giles"/>
-            <br />
-            <sub><b>Null</b></sub>
         </a>
     </td>
     <td align="center">
