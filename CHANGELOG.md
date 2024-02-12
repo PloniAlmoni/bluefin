@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.39.1](https://github.com/plonialmoni/bluefin/compare/v1.39.0...v1.39.1) (2024-02-12)
+
+
+### Bug Fixes
+
+* enable MOTD for fish ([#897](https://github.com/plonialmoni/bluefin/issues/897)) ([954d4e0](https://github.com/plonialmoni/bluefin/commit/954d4e05437c3f15d3d31bebfd845a49edb32f40))
+
 ## [1.39.0](https://github.com/plonialmoni/bluefin/compare/v1.38.0...v1.39.0) (2024-02-12)
 
 
