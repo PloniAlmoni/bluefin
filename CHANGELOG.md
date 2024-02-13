@@ -1,6 +1,18 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.40.0](https://github.com/plonialmoni/bluefin/compare/v1.39.1...v1.40.0) (2024-02-13)
+
+
+### Features
+
+* set terminal quick launch shortcuts ([#903](https://github.com/plonialmoni/bluefin/issues/903)) ([a7d993d](https://github.com/plonialmoni/bluefin/commit/a7d993de8e61c4856ae90b94481145761e35e01b))
+
+
+### Bug Fixes
+
+* Update libadwaita package for Prompt ([#901](https://github.com/plonialmoni/bluefin/issues/901)) ([45fddbd](https://github.com/plonialmoni/bluefin/commit/45fddbd2753bae34794a37e356d53a4adad77e53))
+
 ## [1.39.1](https://github.com/plonialmoni/bluefin/compare/v1.39.0...v1.39.1) (2024-02-12)
 
 
