@@ -1,6 +1,14 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.40.1](https://github.com/plonialmoni/bluefin/compare/v1.40.0...v1.40.1) (2024-02-13)
+
+
+### Bug Fixes
+
+* remove fedora shortcut from -dx ([#905](https://github.com/plonialmoni/bluefin/issues/905)) ([232a053](https://github.com/plonialmoni/bluefin/commit/232a0532227b0790e28e0c53c3cd2dd2edb8a462))
+* shortcut should be Return not Enter ([#904](https://github.com/plonialmoni/bluefin/issues/904)) ([3e04e66](https://github.com/plonialmoni/bluefin/commit/3e04e66263a17980adb9845e08bd658559770620))
+
 ## [1.40.0](https://github.com/plonialmoni/bluefin/compare/v1.39.1...v1.40.0) (2024-02-13)
 
 
