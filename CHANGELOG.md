@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.40.2](https://github.com/plonialmoni/bluefin/compare/v1.40.1...v1.40.2) (2024-02-15)
+
+
+### Bug Fixes
+
+* correct dconf key in default-uuid bluefin-cli ([#908](https://github.com/plonialmoni/bluefin/issues/908)) ([df40f7b](https://github.com/plonialmoni/bluefin/commit/df40f7b445aff137cc8dd58429be9cab5c1ea863))
+
 ## [1.40.1](https://github.com/plonialmoni/bluefin/compare/v1.40.0...v1.40.1) (2024-02-13)
 
 
