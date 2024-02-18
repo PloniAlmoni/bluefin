@@ -190,6 +190,13 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/89luca89">
+            <img src="https://avatars.githubusercontent.com/u/598882?v=4" width="100;" alt="89luca89"/>
+            <br />
+            <sub><b>Luca Di Maio</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/hisergiorojas">
             <img src="https://avatars.githubusercontent.com/u/48057303?v=4" width="100;" alt="hisergiorojas"/>
             <br />
@@ -202,15 +209,15 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
             <br />
             <sub><b>Nathaniel Warburton</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ironman820">
             <img src="https://avatars.githubusercontent.com/u/29488820?v=4" width="100;" alt="ironman820"/>
             <br />
             <sub><b>Nicholas Eastman</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/nicknamenamenick">
             <img src="https://avatars.githubusercontent.com/u/121328689?v=4" width="100;" alt="nicknamenamenick"/>
@@ -245,15 +252,15 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
             <br />
             <sub><b>Tao</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/bpbeatty">
             <img src="https://avatars.githubusercontent.com/u/75324077?v=4" width="100;" alt="bpbeatty"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/b-">
             <img src="https://avatars.githubusercontent.com/u/284789?v=4" width="100;" alt="b-"/>
@@ -288,20 +295,13 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/simon511000">
             <img src="https://avatars.githubusercontent.com/u/31013205?v=4" width="100;" alt="simon511000"/>
             <br />
             <sub><b>Simon511000</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/89luca89">
-            <img src="https://avatars.githubusercontent.com/u/598882?v=4" width="100;" alt="89luca89"/>
-            <br />
-            <sub><b>Luca Di Maio</b></sub>
         </a>
     </td>
     <td align="center">
@@ -319,6 +319,13 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/bayou-brogrammer">
+            <img src="https://avatars.githubusercontent.com/u/9278174?v=4" width="100;" alt="bayou-brogrammer"/>
+            <br />
+            <sub><b>Hikari</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/dylanmtaylor">
             <img src="https://avatars.githubusercontent.com/u/277927?v=4" width="100;" alt="dylanmtaylor"/>
             <br />
@@ -331,15 +338,15 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
             <br />
             <sub><b>David Personette</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/orowith2os">
             <img src="https://avatars.githubusercontent.com/u/93224879?v=4" width="100;" alt="orowith2os"/>
             <br />
             <sub><b>Dallas Strouse</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ArtikusHG">
             <img src="https://avatars.githubusercontent.com/u/24320212?v=4" width="100;" alt="ArtikusHG"/>
@@ -374,15 +381,15 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
             <br />
             <sub><b>Dreamyuki</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/oberon227">
             <img src="https://avatars.githubusercontent.com/u/33374297?v=4" width="100;" alt="oberon227"/>
             <br />
             <sub><b>A. Manzer</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/190n">
             <img src="https://avatars.githubusercontent.com/u/7763597?v=4" width="100;" alt="190n"/>
