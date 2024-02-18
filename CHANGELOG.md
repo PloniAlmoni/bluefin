@@ -1,6 +1,20 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.41.0](https://github.com/plonialmoni/bluefin/compare/v1.40.2...v1.41.0) (2024-02-18)
+
+
+### Features
+
+* Add GNOME Boxes to development tools section ([#909](https://github.com/plonialmoni/bluefin/issues/909)) ([93dcf1d](https://github.com/plonialmoni/bluefin/commit/93dcf1d57aa5273cee5ff98eba5c9a2609203bf3))
+* improve podman-host script for vscode integration ([#915](https://github.com/plonialmoni/bluefin/issues/915)) ([5a5d112](https://github.com/plonialmoni/bluefin/commit/5a5d11256771d6a6bd9eab49ee1ed0ad819b9728))
+* vscode-distrobox script ([#914](https://github.com/plonialmoni/bluefin/issues/914)) ([3a29aff](https://github.com/plonialmoni/bluefin/commit/3a29aff90b887dfcca1dd1eff1c74d014b68721b))
+
+
+### Bug Fixes
+
+* **fish:** address overriden config ([#912](https://github.com/plonialmoni/bluefin/issues/912)) ([614ada6](https://github.com/plonialmoni/bluefin/commit/614ada6ef5f2e4d54beea388bfe147c64d119686))
+
 ## [1.40.2](https://github.com/plonialmoni/bluefin/compare/v1.40.1...v1.40.2) (2024-02-15)
 
 
