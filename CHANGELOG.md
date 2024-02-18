@@ -1,6 +1,13 @@
 # Changelog
 
 <<<<<<< HEAD
+## [1.41.1](https://github.com/plonialmoni/bluefin/compare/v1.41.0...v1.41.1) (2024-02-18)
+
+
+### Bug Fixes
+
+* Rename Prompt to Ptyxis ([#916](https://github.com/plonialmoni/bluefin/issues/916)) ([599e448](https://github.com/plonialmoni/bluefin/commit/599e4483585290362cafa0cb5cc58c66040b4e0d))
+
 ## [1.41.0](https://github.com/plonialmoni/bluefin/compare/v1.40.2...v1.41.0) (2024-02-18)
 
 
